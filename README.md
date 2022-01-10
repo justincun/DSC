@@ -1,2 +1,2 @@
 # Data Science and Machine Learning Projects 
-Hello! This is a repository of my current projects from Jupyter Notebooks on data analysis and machine learning & AI. 
+Hello! This is a repository of all my personal data science projects. My projects use many data science topics such as data analytics, statistical analysis, machine learning, and more!
